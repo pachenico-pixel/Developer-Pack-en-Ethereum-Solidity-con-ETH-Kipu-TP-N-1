@@ -1,1 +1,17 @@
 # Developer-Pack-en-Ethereum-Solidity-con-ETH-Kipu-TP-N-1
+
+# Hola — soy Nicolás Montenegro 👋
+
+Soy estudiante/desarrollador interesado en **Web3** y desarrollo de smart contracts.
+
+- 🔭 Actualmente aprendiendo: Solidity, Hardhat y Safe Multisig.
+- 🌱 Mis metas en Web3: construir dApps seguras y contribuir a DAOs.
+- 👨‍💻 Proyectos:
+- 📫 Contacto:
+- ⚡ Fun: Me gusta aprender idiomas y todo lo relacionado a las ciencias de la computación y la informatica.
+
+---
+
+## Entregables TP1
+- GitHub profile: `https://github.com/pachenico-pixel/Developer-Pack-en-Ethereum-Solidity-con-ETH-Kipu-TP-N-1`
+- Safe Multisig (testnet Sepolia): `0x...` (dirección)

@@ -14,4 +14,4 @@ Soy estudiante/desarrollador interesado en **Web3** y desarrollo de smart contra
 
 ## Entregables TP1
 - GitHub profile: `https://github.com/pachenico-pixel/Developer-Pack-en-Ethereum-Solidity-con-ETH-Kipu-TP-N-1`
-- Safe Multisig (testnet Sepolia): `0x...` (dirección)
+- Safe Multisig (testnet Sepolia): `0x679F6Bb7fA887236BE3A4cCD96a5CcCEC21E60cA` (dirección)

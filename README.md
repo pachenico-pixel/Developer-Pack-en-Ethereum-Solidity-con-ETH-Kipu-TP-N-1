@@ -8,7 +8,7 @@ Soy estudiante/desarrollador interesado en **Web3** y desarrollo de smart contra
 - 🌱 Mis metas en Web3: construir dApps seguras y contribuir a DAOs.
 - 👨‍💻 Proyectos:
 - 📫 Contacto:
-- ⚡ Fun: Me gusta aprender idiomas y todo lo relacionado a las ciencias de la computación y la informatica.
+- ⚡ Fun: Me gusta aprender idiomas, estudiar y todo lo relacionado con las ciencias de la computación y la informática.
 
 ---
 

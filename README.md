@@ -1,6 +1,6 @@
 # Developer-Pack-en-Ethereum-Solidity-con-ETH-Kipu-TP-N-1
 
-# Hola — soy Nicolás Montenegro 👋
+# Hola — soy pachenico-pixel 👋
 
 Soy estudiante/desarrollador interesado en **Web3** y desarrollo de smart contracts.
 
